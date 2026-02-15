@@ -50,9 +50,9 @@ Mein Ziel: Ein sicherheitsbewusster Full Stack Developer mit starker technischer
 
 ## 📈 GitHub Stats  
 
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloN89&show_icons=true&theme=tokyonight)
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloN89&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloN89&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloN89&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
