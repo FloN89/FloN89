@@ -38,6 +38,8 @@ Mein Ziel: Ein sicherheitsbewusster Full Stack Developer mit starker technischer
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![REST APIs](https://img.shields.io/badge/REST-APIs-000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ### 🎨 UX / UI
 ![UX](https://img.shields.io/badge/UX-Design-000?style=for-the-badge)
